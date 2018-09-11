@@ -1,8 +1,8 @@
 # Site
-title:          JBlog
-bio:            'Just a simple Jekyll theme'
+title:          The Blog of Shawn
+bio:            'Simple musings of a rural techie'
 description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
-picture:        'assets/img/profile.png'
+picture:        'assets/img/gravatar.png'
 locale:         en_US
 url:            https://shanff.github.io
 
